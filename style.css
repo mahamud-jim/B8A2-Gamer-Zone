@@ -32,10 +32,8 @@
     align-items: center;
     list-style: none;
     color: #3C354F;
-
     font-family: Work Sans;
     font-size: 18px;
-
     font-weight: 500;
 
 }
@@ -45,4 +43,79 @@
     height: 56px;
     border: none;
     border-radius: 8px;
+}
+
+.s-h {
+    padding-top: 150px;
+    padding-left: 200px;
+}
+
+.pm {
+    color: #534C64;
+    align-items:baseline
+
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+
+    text-transform: lowercase;
+    margin-top: 0px;
+}
+
+.s-h h3 {
+    color: #0B0223;
+    margin-bottom: 0px;
+    font-family: Work Sans;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.s-one {
+    background-image: url(./images/Group\ 14.png);
+    display: flex;
+    justify-content: space-around;
+}
+
+.goat {
+    margin: 0px;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    font-family: Work Sans;
+    font-size: 95px;
+    font-style: normal;
+    font-weight: 800;
+
+
+}
+
+.img1 {
+    margin: 80px;
+
+    margin-right: 0px;
+}
+.mbtn{
+    display: flex;
+    gap: 10px;
+    
+}
+.pbtn{
+color: #FFF; 
+padding: 21px 40px;
+border-radius: 48px;
+background-color:#FF42A5;
+border: none;
+
+}
+.bbtn{
+color: #FFF; 
+padding: 21px 40px;
+border-radius: 48px;
+background-color:#4EC5F7;
+border: none;
 }
